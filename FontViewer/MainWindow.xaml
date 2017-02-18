@@ -24,6 +24,7 @@
             <TextBlock FontSize="14"
                        TextWrapping="Wrap">
                 Selecteer een font uit de lijst om deze te bekijken.
+                <LineBreak />
                 Door in het onderste gedeelte te typen is het mogelijk om de tekst te veranderen.
             </TextBlock>
         </Border>
